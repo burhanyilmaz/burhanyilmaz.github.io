@@ -11,7 +11,7 @@ const Basic = ({ localizer }) => (
     timeslots={2}
     showMultiDayTimes
     localizer={localizer}
-    defaultView="week"
+    // defaultView="week"
   />
 )
 
